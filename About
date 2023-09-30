@@ -1,0 +1,14 @@
+# Yeti
+Prefix : !
+
+# Yeti Member Commands
+hello,
+good,
+bad,
+whosthebest,
+whostheworst,
+help
+
+# Yeti Admin Commands
+ban @example
+kick @ example
